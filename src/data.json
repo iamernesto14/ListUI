@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.pexels.com/photos/981062/pexels-photo-981062.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "John Doe",
+    "text": "51 members",
+    "description": "White and grey kitten on brown and black leopard-print textile"
+  },
+  {
+    "id": 2,
+    "image": "https://images.pexels.com/photos/97082/weimaraner-puppy-dog-snout-97082.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Jane Smith",
+    "text": "9 members",
+    "description": "Orange tabby cat with red handkerchief"
+  },
+  {
+    "id": 3,
+    "image": "https://images.pexels.com/photos/422220/pexels-photo-422220.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "name": "Alex Johnson",
+    "text": "85 members",
+    "description": "Short-coated gray cat"
+  },
+  {
+    "id": 4,
+    "image": "https://images.pexels.com/photos/164186/pexels-photo-164186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Emily Brown",
+    "text": "17 members",
+    "description": "Beige cat with gold-colored crown"
+  },
+  {
+    "id": 5,
+    "image": "https://images.pexels.com/photos/59523/pexels-photo-59523.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Michael Williams",
+    "text": "29 members",
+    "description": "Black and white tabby cat leaning on brown wooden surface beside sea"
+  },
+  {
+    "id": 6,
+    "image": "https://images.pexels.com/photos/825949/pexels-photo-825949.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Sammy Awuku",
+    "text": "105 members",
+    "description": "Orange cat sitting on white surface"
+  },
+  {
+    "id": 7,
+    "image": "https://images.pexels.com/photos/1629781/pexels-photo-1629781.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "name": "Lionel Messi",
+    "text": "96 members",
+    "description": "Brown short-coated cat"
+  }
+]
